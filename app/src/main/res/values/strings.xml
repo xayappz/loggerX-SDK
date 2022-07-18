@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoggerX SDK</string>
+    <string name="action_settings">Exit</string>
+    <string name="home_fragment_label">LoggerX SDK</string>
+    <string name="send_log">Click to send Log</string>
+    <string name="sdk_called">SDK is called...check logs for more info:)</string>
+    <string name="fab_txt">Contact Email: xayappz@gmail.com</string>
+
+</resources>
